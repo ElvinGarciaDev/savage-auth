@@ -5,3 +5,22 @@ body{
 img{
   height: 200px;
 }
+
+
+input {
+  display: block;
+  margin: 0 auto;
+
+  border-radius: .5rem;
+  font-size: 2rem;
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+button {
+  display: block;
+  border: none;
+  border-radius: .5rem;
+  font-size: 2rem;
+  margin: 2rem auto;
+  width: 15rem;
+}
